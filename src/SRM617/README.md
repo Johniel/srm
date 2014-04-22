@@ -2,7 +2,19 @@
 
 ## Div2
 
+### SilverbachConjecture
+250
+やるだけ
+
+### SlimeXSlimonadeTycoon
+500
+できるかぎり作って、できるかぎり売る
+
+### MyVeryLongCake
+1000
+
 ## Div1
+1000
 
 ### MyLongCake
 250
