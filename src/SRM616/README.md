@@ -1,6 +1,22 @@
 # SRM616
 本番はDiv1Easyだけ解いて115.51pt
 
+## Div2
+
+## WakingUpEasy
+250
+
+やるだけ
+
+## ColorfulCoinsEasy
+500
+
+X % max(values) を全部試す。
+
+1番目に大きい数値でmod, 2番目に大きい数値でmod, ... と処理するので、
+
+実は X / max(values) はどんな数値でも問題ない。
+
 ## Div1
 
 ## WakingUp
