@@ -5,7 +5,7 @@
 ### PairGame
 250
 
-<a, b>と<c, d>からBFSする
+\<a, b\>と\<c, d\>からBFSする
 
 ## Div2
 
