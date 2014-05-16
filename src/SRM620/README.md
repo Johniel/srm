@@ -2,6 +2,11 @@
 
 ## Div1
 
+### PairGame
+250
+
+<a, b>と<c, d>からBFSする
+
 ## Div2
 
 ### CandidatesSelectionEasy
