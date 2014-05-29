@@ -8,10 +8,8 @@ Div1 250
 
 前もって全点間最短距離を計算しておく。
 
-そして、a->bという辺がiからjまでのパスに含まれるということは
+そして、a->bという辺がvからuまでのパスに含まれるということは
 
-    dist[a][b] == min_dist[a][b]
-
-    min_dist[i][j] == min_dist[i][a] + min_dist[b][j]
+    min_dist[v][u] == min_dist[v][a] + dist[a][b] + min_dist[b][u]
 
 が成り立つということ。
