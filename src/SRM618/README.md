@@ -6,6 +6,11 @@ Div2 250
 
 やるだけ
 
+## LongWordsDiv2
+Div2 500
+
+全部試す
+
 ## MovingRooksDiv2
 Div2 900
 
