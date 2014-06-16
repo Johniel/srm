@@ -1,27 +1,34 @@
 # SRM620
 
-## Div1
+## CandidatesSelection
+div1 500
 
-### PairGame
-250
+終了状態から考える。その順序が保たれる比較を順番に選べばよい。
+
+score[a1] <= score[a2] となるようなものを探す。
+
+<になる部分はそれで良いとして、==となる部分を抜き出して
+
+さらに処理を続ける。
+
+## PairGame
+div1 250
 
 \<a, b\>と\<c, d\>からBFSする
 
-## Div2
-
-### CandidatesSelectionEasy
-250
+## CandidatesSelectionEasy
+div2 250
 
 やるだけ
 
 
-### PairGameEasy
-500
+## PairGameEasy
+div2 500
 
 BFSする
 
-### RandomGraph
-1000
+## RandomGraph
+div2 1000
 
 DP\[3頂点の連結成分の個数]\[2頂点の連結成分の個数]\[1頂点の連結成分の個数] = 確率
 
