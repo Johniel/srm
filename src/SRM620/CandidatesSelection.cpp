@@ -48,20 +48,6 @@ bool fin(vector<vector<int>> v)
   return flg;
 }
 
-
-void show(vector<vector<int>> v)
-{
-  for (int i = 0; i < v.size(); ++i) {
-    cout << "[" ;
-    for (int j = 0; j < v[i].size(); ++j) {
-      cout << v[i][j] << ' ';
-    }
-    cout << "] " ;
-  }
-  cout << endl;
-  return ;
-}
-
 class CandidatesSelection {
 public:
   string possible(vector <string> score, vector <int> result)
