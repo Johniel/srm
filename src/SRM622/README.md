@@ -1,6 +1,21 @@
 # SRM622
 本番ではeasyだけ通せた
 
+## FibonacciDiv2
+div2 250
+
+やるだけ。フィボナッチ数を再帰で計算しないかぎり平気。
+
+## BoxesDiv2
+div2 500
+
+小さい方からマージする
+
+## Subsets
+div2 1000
+
+バックトラックすれば間に合う。
+
 ## BuildingRoutes
 Div1 250
 
