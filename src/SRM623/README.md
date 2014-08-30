@@ -1,5 +1,20 @@
 # SRM623
-easyの場合分けを間違って0完した。
+div1 easyの場合分けを間違って0完した。
+
+## CatchTheBeatEasy
+div2 250
+
+やるだけ
+
+## CatAndRat
+div2 450
+
+出現位置から最も遠い位置(pi * r)にいるのが良い。
+
+## ApplesAndPears
+div2 1000
+
+div1 300とだいたい同じ。
 
 ## UniformBoard
 Div1 300
@@ -11,4 +26,3 @@ Div1 300
 梨のある場所に配置するには"どける -> おく"の2手必要で、
 
 空の場所に配置するには"おく"の1手必要
-
