@@ -1,5 +1,9 @@
 # SRM624
 
+## BuildingHeightsEasy
+div2 500
+ソートして順に試す
+
 ## BuildingHeights
 div1 250
 
