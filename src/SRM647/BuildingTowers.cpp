@@ -20,11 +20,7 @@ bool f(lli mx, vector<int> x, vector<int> t, lli N, lli K)
     v.push_back(make_pair(b, c));
   }
 
-  cout << mx << endl;
   sort(v.begin(), v.end());
-  for (int i = 0; i < v.size(); ++i) {
-    cout << "(" << v[i].first << "," << v[i].second << ")" << endl;
-  }
 
   pair<lli, lli> p = make_pair(1, 1);
   each (q, v) {
